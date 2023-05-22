@@ -1,0 +1,8 @@
+Enter your operator id: Metro:123
+level: 3, slot: 2
+Operation: parkCar 1 10
+Operation: parkCar 2 20
+Operation: parkCar 3 30
+Operation: exitCar 2 20
+Operation: parkCar 4 40
+Operation: exit 1  1
